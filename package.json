@@ -95,7 +95,7 @@
     "pug": "^3.0.3",
     "puppeteer": "~23.0.2",
     "rimraf": "^6.0.1",
-    "rolldown": "canary",
+    "rolldown": "0.12.2-snapshot-7ac1381-20240815002759",
     "rollup": "^4.20.0",
     "rollup-plugin-dts": "^6.1.1",
     "rollup-plugin-esbuild": "^6.1.1",

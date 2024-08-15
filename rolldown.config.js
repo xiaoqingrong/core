@@ -142,7 +142,6 @@ function createConfig(format, output, plugins = []) {
   }
   output.sourcemap = !!process.env.SOURCE_MAP
 
-  // @ts-expect-error Not supported yet
   output.externalLiveBindings = false
 
   // https://github.com/rollup/rollup/pull/5380
