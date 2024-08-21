@@ -59,7 +59,7 @@
     "node": ">=18.12.0"
   },
   "devDependencies": {
-    "@babel/parser": "catalog:",
+    "@babel/parser": "catalog111:",
     "@babel/types": "catalog:",
     "@rollup/plugin-alias": "^5.1.0",
     "@rollup/plugin-commonjs": "^26.0.1",
